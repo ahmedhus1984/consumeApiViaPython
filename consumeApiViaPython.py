@@ -1,8 +1,3 @@
-'''
-1.
-self.__unit = tk.IntVar(value=1)  # Set default to 1 (No Boost)
-'''
-
 import tkinter as tk
 from tkinter import ttk
 import requests
